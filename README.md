@@ -1,5 +1,5 @@
 # lab2.py
-# praktikum
+# praktikum2
 
 input bilangan sebanyak 3 buah inputan.
 
