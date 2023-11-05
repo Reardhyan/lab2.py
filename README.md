@@ -17,5 +17,7 @@ stop
 
 ![py2](https://github.com/Reardhyan/lab2.py/assets/148032571/3ba5db0f-f837-40ce-8aca-b3308807fe93)
 
+![Screenshot (112)](https://github.com/Reardhyan/lab2.py/assets/148032571/73c557a4-669d-4d58-83b8-524d04211d53)
+
 ![flow](https://github.com/Reardhyan/lab2.py/assets/148032571/8c89e05c-c11b-43d8-b873-be9b99ae4914)
 
