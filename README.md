@@ -21,3 +21,15 @@ stop
 
 ![flow](https://github.com/Reardhyan/lab2.py/assets/148032571/8c89e05c-c11b-43d8-b873-be9b99ae4914)
 
+# lab2
+# latihan1
+
+sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.
+Buat program 
+
+![py2](https://github.com/Reardhyan/lab2.py/assets/148032571/70c9bf41-4711-47b4-81f5-6c875d169514)
+
+![Screenshot (113)](https://github.com/Reardhyan/lab2.py/assets/148032571/6d4e5236-c638-4c33-b931-1dee65456b47)
+
+
+
