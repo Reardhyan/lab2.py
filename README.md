@@ -41,6 +41,41 @@ Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 v
 
 ![Screenshot (114)](https://github.com/Reardhyan/lab2.py/assets/148032571/59339e31-2c70-40af-a234-6365510f5948)
 
+# lab3
+# latihan1
+
+Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
+
+Pendeklarasian variable
+
+Untuk perulangan baris dan kolom menggunakan (for)
+
+Untuk menampikan hasil dari perulangan agar terlihat rapih menggunakan (format string) rata ke kanan sebanyak 5 karakter
+
+Untuk menampikan hasil dari perulangan agar tidak membuat baris baru menggunakan (end='') (baris)
+
+![py2 wqs](https://github.com/Reardhyan/lab2.py/assets/148032571/2f27ce98-bfc0-4535-8a2d-52da4a63b4e7)
+
+![Screenshot (115)](https://github.com/Reardhyan/lab2.py/assets/148032571/16853834-e710-49eb-a7a0-8cfc7dcb2349)
+
+# latihan2
+
+Tampilkan n bilangan acak yang lebih kecil dari 0.5. nilai n diisi pada saat runtime anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya.
+
+(import random) Untuk membuat bilangan acak
+
+jum = int(input("Masukan nilai: ")) Menentukan jumlah input & di konversikan dalam bilangan bulat-dimasukan ke variable jum/jumlah
+
+while i in range(jum) Pengulangan
+
+Menampilkan urutan sesuai inputan dengan hasil di bawah 0.5
+
+![py2 wqss](https://github.com/Reardhyan/lab2.py/assets/148032571/56b2cbce-85eb-4062-bea8-453bb7724a46)
+
+![Screenshot (116)](https://github.com/Reardhyan/lab2.py/assets/148032571/1452bb7a-61be-4104-9ea0-30f9d5683848)
+
+
+
 
 
 
