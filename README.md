@@ -14,3 +14,8 @@ Bandingkan kembali (x) dengan (y) dan (z). Apabila bernilai true maka akan terce
 Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (z).
 
 stop
+
+![py2](https://github.com/Reardhyan/lab2.py/assets/148032571/3ba5db0f-f837-40ce-8aca-b3308807fe93)
+
+![flow](https://github.com/Reardhyan/lab2.py/assets/148032571/8c89e05c-c11b-43d8-b873-be9b99ae4914)
+
